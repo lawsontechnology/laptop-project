@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Laptop Project\bin\Debug\net6.0\Laptop Project.exe
+C:\Users\User\Desktop\Laptop Project\bin\Debug\net6.0\Laptop Project.deps.json
+C:\Users\User\Desktop\Laptop Project\bin\Debug\net6.0\Laptop Project.runtimeconfig.json
+C:\Users\User\Desktop\Laptop Project\bin\Debug\net6.0\Laptop Project.dll
+C:\Users\User\Desktop\Laptop Project\bin\Debug\net6.0\Laptop Project.pdb
+C:\Users\User\Desktop\Laptop Project\obj\Debug\net6.0\Laptop Project.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Laptop Project\obj\Debug\net6.0\Laptop Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Laptop Project\obj\Debug\net6.0\Laptop Project.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Laptop Project\obj\Debug\net6.0\Laptop Project.AssemblyInfo.cs
+C:\Users\User\Desktop\Laptop Project\obj\Debug\net6.0\Laptop Project.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Laptop Project\obj\Debug\net6.0\Laptop Project.dll
+C:\Users\User\Desktop\Laptop Project\obj\Debug\net6.0\refint\Laptop Project.dll
+C:\Users\User\Desktop\Laptop Project\obj\Debug\net6.0\Laptop Project.pdb
+C:\Users\User\Desktop\Laptop Project\obj\Debug\net6.0\Laptop Project.genruntimeconfig.cache
+C:\Users\User\Desktop\Laptop Project\obj\Debug\net6.0\ref\Laptop Project.dll
